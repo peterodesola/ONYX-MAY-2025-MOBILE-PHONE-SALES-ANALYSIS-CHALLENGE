@@ -61,7 +61,8 @@ This Power BI report analyzes mobile phone sales performance across customer dem
   - **Bar and donut charts:** Summary of key sales KPIs by customer and product attributes.
 - **Purpose:** Provides a quick overview of revenue performance, enabling root cause analysis.
   
-![executive](https://github.com/user-attachments/assets/a00d0a8d-6520-48ce-935f-098da3f10ec3)
+![executive](https://github.com/user-attachments/assets/c94065cb-9668-45e4-a331-89e85282b60a)
+
 
 ### 📌 Page 2: Product Performance
 - **Visuals:**  
@@ -71,7 +72,8 @@ This Power BI report analyzes mobile phone sales performance across customer dem
   - EMI and credit card dominate payment preferences.
   - Major sales centers identified (e.g., Hyderabad, Izmir, Dhaka).
     
-![performance](https://github.com/user-attachments/assets/f65c8497-3cc9-4467-9694-53b3842b82fb)
+![performance](https://github.com/user-attachments/assets/868a9ca9-bb28-4bd4-8663-7a3b739cf73c)
+
 
 ### 📌 Page 3: Customer Insights
 - **Visuals:**  
@@ -81,7 +83,8 @@ This Power BI report analyzes mobile phone sales performance across customer dem
   - 18–25 and 26–33 age groups consistently drive monthly sales.
   - Regionally, India and Turkey remain top performers.
     
-![customer](https://github.com/user-attachments/assets/841d28a3-6912-4adc-91cf-bf85d599a185)
+![customer](https://github.com/user-attachments/assets/f57db3db-9419-409e-a2af-1b71ab6db990)
+
 
 ### 📌 Page 4: Regional Deep Dive
 - **Visuals:**
@@ -92,12 +95,14 @@ This Power BI report analyzes mobile phone sales performance across customer dem
   - India dominates both revenue and transaction volume.
   - Maps show geographic concentration of sales hotspots.
     
-![Region](https://github.com/user-attachments/assets/14b8eb5f-d739-433b-a14b-3099a3f0d6e4)
+![Region](https://github.com/user-attachments/assets/cacebe38-d279-4509-9151-39c9690d8a32)
+
 
 ### 📌 Page 5: User Guide
 - Provides navigation help and instructions for users interacting with the dashboard.
   
-![user guide](https://github.com/user-attachments/assets/4ef52b34-4e0c-4d5d-904c-007b96aad1d7)
+![user guide](https://github.com/user-attachments/assets/f98516dc-86f0-4ced-a375-81121ef7ea70)
+
 
 ---
 
@@ -142,7 +147,7 @@ This Power BI report analyzes mobile phone sales performance across customer dem
 I'm a skilled **Data Analyst** with a background in **Human Anatomy**, **Education**, and an MSc in **AI & Data Science**. I blend domain knowledge with technical expertise to transform complex data into actionable insights through engaging dashboards and storytelling.
 
 Feel free to connect or collaborate:  
-📧 [YourEmail@example.com](peterodes27@gmail)  
+📧 [peterodes27@gmail.com](peterodes27@gmail)  
 🔗 [LinkedIn](https://www.linkedin.com/in/peterodesola/) | [GitHub](https://github.com/peterodesola?tab=repositories))
 
 ---
