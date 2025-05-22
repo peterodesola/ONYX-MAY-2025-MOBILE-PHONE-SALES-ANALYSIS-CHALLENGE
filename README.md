@@ -104,6 +104,12 @@ This Power BI report analyzes mobile phone sales performance across customer dem
 ![user guide](https://github.com/user-attachments/assets/f98516dc-86f0-4ced-a375-81121ef7ea70)
 
 
+
+
+🔗 Live Power BI Dashboard
+👉 Click here to view the Mobile Phone Sales Analysis Dashboard (Onyx – May 2025)
+[![View Report](https://img.shields.io/badge/View_PowerBI_Report-%230078D4.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiYTZkNzc5YjUtNjVjNS00NThhLWIzOWQtYTFkYzc5NzlmOTNhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
 ---
 
 ## 📈 Results & Recommendations
