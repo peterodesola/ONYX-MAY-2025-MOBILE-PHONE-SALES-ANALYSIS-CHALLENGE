@@ -61,7 +61,8 @@ This Power BI report analyzes mobile phone sales performance across customer dem
   - **Bar and donut charts:** Summary of key sales KPIs by customer and product attributes.
 - **Purpose:** Provides a quick overview of revenue performance, enabling root cause analysis.
   
-![executive](https://github.com/user-attachments/assets/c94065cb-9668-45e4-a331-89e85282b60a)
+![executive](https://github.com/user-attachments/assets/aafc8d31-4264-4f74-9709-b87e1b72d763)
+
 
 
 ### 📌 Page 2: Product Performance
@@ -72,18 +73,20 @@ This Power BI report analyzes mobile phone sales performance across customer dem
   - EMI and credit card dominate payment preferences.
   - Major sales centers identified (e.g., Hyderabad, Izmir, Dhaka).
     
-![performance](https://github.com/user-attachments/assets/868a9ca9-bb28-4bd4-8663-7a3b739cf73c)
+![performance](https://github.com/user-attachments/assets/ec848661-747c-45f7-a9a5-78dcb0f158e3)
+
 
 
 ### 📌 Page 3: Customer Insights
 - **Visuals:**  
   - Time series: "Sales Trend by Age Group Over Time"
-  - Treemap & bar charts: "Revenue by City & Country"
+  - Bar charts: "Revenue by City & Country"
 - **Insights:**  
   - 18–25 and 26–33 age groups consistently drive monthly sales.
   - Regionally, India and Turkey remain top performers.
     
-![customer](https://github.com/user-attachments/assets/f57db3db-9419-409e-a2af-1b71ab6db990)
+![customer](https://github.com/user-attachments/assets/7462831e-71a7-4b0b-9f2f-09020fafb5c3)
+
 
 
 ### 📌 Page 4: Regional Deep Dive
@@ -95,13 +98,15 @@ This Power BI report analyzes mobile phone sales performance across customer dem
   - India dominates both revenue and transaction volume.
   - Maps show geographic concentration of sales hotspots.
     
-![Region](https://github.com/user-attachments/assets/cacebe38-d279-4509-9151-39c9690d8a32)
+![Region](https://github.com/user-attachments/assets/9cb7b34a-ca4d-4773-be95-6fd7cb52ed80)
+
 
 
 ### 📌 Page 5: User Guide
 - Provides navigation help and instructions for users interacting with the dashboard.
   
-![user guide](https://github.com/user-attachments/assets/f98516dc-86f0-4ced-a375-81121ef7ea70)
+![user guide](https://github.com/user-attachments/assets/f730e588-1dd5-4b93-a6f2-7e4b6126210a)
+
 
 
 
