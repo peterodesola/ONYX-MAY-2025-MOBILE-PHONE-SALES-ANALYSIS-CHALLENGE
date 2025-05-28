@@ -23,7 +23,7 @@
 # 📊 Mobile Phone Sales Analysis – Onyx May 2025
 
 **Role:** Data Analyst  
-**Contact:** [peterodes27@gmail.com](peterodes27@gmail.com) | [LinkedIn Profile URL](https://www.linkedin.com/in/peterodesola/) | [GitHub Profile URL](https://github.com/peterodesola?tab=repositories)  
+**Contact:** [peterodes27@gmail.com](peterodes27@gmail.com) | [LinkedIn](https://www.linkedin.com/in/peterodesola/) | [GitHub](https://github.com/peterodesola?tab=repositories)  
 
 ## 📁 Overview
 This Power BI report analyzes mobile phone sales performance across customer demographics, regions, and sales channels for Onyx in May 2025. It showcases advanced data modeling, creative design, and interactive user experience using bookmarks, slicers, and dynamic visuals.
