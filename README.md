@@ -42,6 +42,8 @@ This Power BI report analyzes mobile phone sales performance across customer dem
 - Organized data into **fact and dimension tables**:
   - **Fact Table:** Sales
   - **Dimension Tables:** Customer, Region, Product, Payment Type, Calendar
+    
+![modeling](https://github.com/user-attachments/assets/6b5b9b44-deac-4ac6-a29c-0426ddcc668e)
 
 ### 🎨 Report Design
 - **Background Design:** Created in PowerPoint to match branding and improve readability.
